@@ -10,3 +10,4 @@
 4.|		|		|		|		|		|		|		|
 5.|		|		|		|		|		|		|		|
 
+![PIP-STEGA-v1 drawio](https://github.com/user-attachments/assets/005c1c2c-2594-4fbe-9a49-a32bc51c7f7c)
